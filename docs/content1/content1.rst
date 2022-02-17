@@ -52,7 +52,7 @@ Service PolicyでRuleを定義
 
 ____
 
-**Manage** → ___Service Policies___ → [Service Policies] を選択
+***Manage*** > ***Service Policies*** → ***Service Policies*** を選択
 
 選択
 
