@@ -56,17 +56,11 @@ Service PolicyでRuleを定義
 .. image:: ../content1/image-06-03.png
   :width: 320
 
-<br>
-<br>
-
-
-
-
 
 [Add service policy] を押下
 
 .. image:: ../content1/image-06-04.png
-  :width: 640
+  :width: 480
 
 
 設定内容の入力
