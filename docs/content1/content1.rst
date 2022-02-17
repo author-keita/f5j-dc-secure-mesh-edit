@@ -58,6 +58,13 @@ ___
 
 **Manage** → ___Service Policies___ → [Service Policies] を選択
 
+選択
+
+選択
+
+選択
+
+
 .. image:: ../content1/image-06-03.png
   :width: 320
 
