@@ -56,7 +56,8 @@ Service PolicyでRuleを定義
 .. image:: ../content1/image-06-03.png
   :width: 320
 
-<br><br><br><br><br><br>
+<br>
+<br>
 
 
 
