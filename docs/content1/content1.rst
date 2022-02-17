@@ -60,7 +60,11 @@ ___
 
 選択
 
+
+
 選択
+
+
 
 選択
 
@@ -86,5 +90,6 @@ ___
 [Configure] を押下
 .. image:: ../content1/image-06-07.png
   :width: 640
+
 
 ~
