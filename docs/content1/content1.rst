@@ -41,6 +41,7 @@ HTTP LBのVIPに対するL7アクセス制御
 .. image:: ../content1/image-06-01.png
   :width: 640
   
+  
 Service PolicyでRuleを定義
 ==================
 
@@ -48,6 +49,7 @@ Service PolicyでRuleを定義
 
 .. image:: ../content1/image-06-02.png
   :width: 640
+
 
 [Manage] → [Service Policies] → [Service Policies] を選択
 
@@ -60,6 +62,7 @@ Service PolicyでRuleを定義
 .. image:: ../content1/image-06-04.png
   :width: 640
 
+
 設定内容の入力
 
 .. image:: ../content1/image-06-05.png
@@ -67,6 +70,7 @@ Service PolicyでRuleを定義
   
 .. image:: ../content1/image-06-06.png
   :width: 640
+
 
 [Configure] を押下
 .. image:: ../content1/image-06-07.png
