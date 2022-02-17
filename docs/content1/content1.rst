@@ -50,15 +50,17 @@ Service PolicyでRuleを定義
 .. image:: ../content1/image-06-02.png
   :width: 640
 
-hoge
+
 ***
-*Manage* → _Service Policies_ → [Service Policies] を選択
+---
+___
+
+
+**Manage** → ___Service Policies___ → [Service Policies] を選択
 
 .. image:: ../content1/image-06-03.png
   :width: 320
 
-hoge
-___
 \ ``Add service policy`` \ を押下
 
 .. image:: ../content1/image-06-04.png
