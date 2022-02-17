@@ -51,6 +51,7 @@ Service PolicyでRuleを定義
   :width: 640
 
 ____
+****
 
 **Manage** → ___Service Policies___ → [Service Policies] を選択
 
