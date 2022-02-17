@@ -8,7 +8,7 @@
 classname = "F5 Networks Japan Technical Information"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_url = "https://github.com/BeF5/f5j-tech-info"
+github_url = "https://github.com/author-keita/f5j-dc-secure-mesh-edit"
 
 git_branch_name = 'master'
 
