@@ -57,7 +57,7 @@ Service PolicyでRuleを定義
   :width: 320
 
 
-[Add service policy] を押下
+\ ``Add service policy`` \ を押下
 
 .. image:: ../content1/image-06-04.png
   :width: 480
