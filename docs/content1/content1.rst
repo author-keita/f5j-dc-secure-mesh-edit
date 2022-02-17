@@ -50,8 +50,7 @@ Service PolicyでRuleを定義
 .. image:: ../content1/image-06-02.png
   :width: 640
 
-
-***
+___
 **Manage** → ___Service Policies___ → [Service Policies] を選択
 
 選択
@@ -62,7 +61,7 @@ Service PolicyでRuleを定義
 
 .. image:: ../content1/image-06-03.png
   :width: 320
-***
+___
 
 \ ``Add service policy`` \ を押下
 
