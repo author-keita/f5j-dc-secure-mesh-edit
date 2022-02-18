@@ -80,7 +80,7 @@ ____
 \ ``Configure`` \ を押下
 
 .. image:: ../content06/images/image-06-07.png
-  :width: 640
+  :width: 1080
 
 ____
 
