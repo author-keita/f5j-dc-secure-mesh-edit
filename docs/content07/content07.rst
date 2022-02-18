@@ -1,9 +1,61 @@
 ==============================================
-Service Policy
+API security and Anomaly detection
 ==============================================
 
-HTTP LBのVIPに対するL7アクセス制御
+App typeを定義
 ==================
+
+**Shared Configuration** を選択
+
+.. image:: ../content07/images/image-07-01.png
+  :width: 640
+
+____
+
+**Security** > **AI & ML** > **App Types** を選択
+
+.. image:: ../content07/images/image-07-02.png
+  :width: 320
+
+____
+
+\ ``Add app type`` \ を押下
+
+.. image:: ../content07/images/image-07-03.png
+  :width: 480
+
+____
+
+要件に応じてApp Typeを定義し、\ ``Save and Exit`` \ を押下
+
+.. image:: ../content07/images/image-07-04.png
+  :width: 480
+
+____
+
+App typeが追加されたことを確認
+
+.. image:: ../content07/images/image-07-05.png
+  :width: 480
+
+
+App TypeをLBに設定
+==================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 送信元の指定
 
