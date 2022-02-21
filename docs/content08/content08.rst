@@ -35,7 +35,7 @@ JavaScriptによる問い合わせを送り、ブラウザーかどうかを識�
 ブラウザと識別された場合、レスポンスにCookieを挿入して、次回以降のリクエストでは問い合わせない。
 
 .. image:: ../content08/images/image-08-02.png
-  :width: 640
+  :width: 1080
 
 
 Captcha Challenge
@@ -44,7 +44,7 @@ Captcha Challenge
 指定したイメージを選択させ、クライアントがBotではなく人であることを確認。
 
 .. image:: ../content08/images/image-08-03.png
-  :width: 640
+  :width: 1080
 
 
 Policy Based Challenge - ML
@@ -53,28 +53,28 @@ Policy Based Challenge - ML
 ML（機械学習）でMaliciousユーザを脅威3レベルに分類。各レベル毎にアクションを指定。
 
 .. image:: ../content08/images/image-08-04.png
-  :width: 640
+  :width: 1080
 
 ____
 
 脅威レベル毎のアクションを変更。
 
 .. image:: ../content08/images/image-08-05.png
-  :width: 640
+  :width: 1080
 
 ____
 
 ユーザ識別子の変更。デフォルトではMaliciousユーザ=クライアントIPアドレス。
 
 .. image:: ../content08/images/image-08-06.png
-  :width: 640
+  :width: 1080
 
 ____
 
 MLを有効にする。
 
 .. image:: ../content08/images/image-08-07.png
-  :width: 640
+  :width: 1080
 
 
 
@@ -82,7 +82,7 @@ Maliciousユーザ検知 - ML
 ==================
 
 .. image:: ../content08/images/image-08-08.png
-  :width: 640
+  :width: 1080
 
 
 Policy Based Challenge - Static
@@ -91,7 +91,7 @@ Policy Based Challenge - Static
 MLではなく送信元や宛先指定でアクションを決める。
 
 .. image:: ../content08/images/image-08-09.png
-  :width: 640
+  :width: 1080
 
 
 Rate Limiting
@@ -102,28 +102,28 @@ HTTP LB VIPに対するレートリミット。<br>
 レートリミットの対象：特定のHTTPメソッド、Domain、パス、ヘッダー等。
 
 .. image:: ../content08/images/image-08-10.png
-  :width: 640
+  :width: 1080
 
 ____
 
 送信元の識別子を選択。
 
 .. image:: ../content08/images/image-08-11.png
-  :width: 640
+  :width: 1080
 
 ____
 
 レートリミットの値と対象を選択。
 
 .. image:: ../content08/images/image-08-12.png
-  :width: 640
+  :width: 1080
 
 ____
 
 レートリミットの対象を選択。
 
 .. image:: ../content08/images/image-08-13.png
-  :width: 640
+  :width: 1080
 
 
 Client Blocking
@@ -132,5 +132,5 @@ Client Blocking
 特定の送信元のIP PrefixまたはASNをブロック。
 
 .. image:: ../content08/images/image-08-14.png
-  :width: 640
+  :width: 1080
 
