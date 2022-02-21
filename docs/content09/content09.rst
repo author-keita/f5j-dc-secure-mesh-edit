@@ -54,7 +54,7 @@ BOTの種類
 Bot Defense：JSまたはSDKによりデータ収集、機械学習でリクエストが悪意のあるBotか判断。
 
 .. image:: ../content09/images/image-09-03.png
-  :width: 640
+  :width: 480
 
 
 App Firewall
