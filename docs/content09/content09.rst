@@ -119,7 +119,7 @@ Bot DefenseをLBで定義。
 ____
 
 .. image:: ../content09/images/image-09-12.png
-  :width: 800
+  :width: 880
 
 ____
 
