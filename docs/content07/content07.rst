@@ -20,16 +20,16 @@ ____
 .. image:: ../content07/images/image-07-03.png
   :width: 800
 
-____
 
 サービス間のAPI連携、スキーマ構造を学習し可視化リクエスト、エラーレート、遅延等をモニター
+==================
 
 .. image:: ../content07/images/image-07-04.png
   :width: 800
 
-____
 
 リクエスト・レスポンスサイズ、受信遅延値、リクエスト・エラーレートの異常検知
+==================
 
 .. image:: ../content07/images/image-07-05.png
   :width: 800
