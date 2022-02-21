@@ -83,13 +83,6 @@ Service PolicyをActiveにする
   :width: 1080
 
 
-Service PolicyをActiveにする
-==================
-
-.. image:: ../content06/images/image-06-05.png
-  :width: 1080
-
-
 ==============================================
 HTTP LoadBalancer
 ==============================================
