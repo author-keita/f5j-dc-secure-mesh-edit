@@ -27,7 +27,7 @@ WAF用語
 
 
 .. image:: ../content09/images/image-09-01.png
-  :width: 640
+  :width: 480
 
 
 Bot Protection & Defense
@@ -36,7 +36,7 @@ Bot Protection & Defense
 Bot Protection：BotやWebツール、ブラウザ等の不正な振る舞いを検知。
 
 .. image:: ../content09/images/image-09-02.png
-  :width: 640
+  :width: 480
   
 BOTの種類
 
@@ -63,7 +63,7 @@ App Firewall
 WAF、Bot Protection用にApp Firewallを作成。
 
 .. image:: ../content09/images/image-09-04.png
-  :width: 640
+  :width: 480
 
 ____
 
@@ -114,7 +114,7 @@ Bot Defense
 Bot DefenseをLBで定義。
 
 .. image:: ../content09/images/image-09-11.png
-  :width: 640
+  :width: 480
 
 ____
 
