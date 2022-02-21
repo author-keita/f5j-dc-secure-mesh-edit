@@ -68,7 +68,7 @@ WAF、Bot Protection用にApp Firewallを作成。
 ____
 
 .. image:: ../content09/images/image-09-05.png
-  :width: 800
+  :width: 1080
 
 
 App Firewall – WAF Custom
